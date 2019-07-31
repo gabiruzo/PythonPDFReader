@@ -4,7 +4,7 @@ Pyocr for Windows - READ IMAGE PDF WITHOUT SEARCH OPTION TO PDF WITH SEARCH OPTI
 Works for Portuguese and English
 
 
-##Install
+## Install
 
 You have to install Poppler 0.68, and Tesseract Alpha 5.x - And change the installation path in python code.
 
