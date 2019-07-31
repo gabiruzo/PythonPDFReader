@@ -10,5 +10,5 @@ You have to install Poppler 0.68, and Tesseract Alpha 5.x - And change the insta
 
 ## How to use
 
-Run Icon (VBS archive), not the ico, and select your pdf file for read and turn in searchable PDF.
+Run Icon PyOCR (VBS archive), not the ico, and select your pdf file for read and turn in searchable PDF.
 
