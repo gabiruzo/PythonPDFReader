@@ -5,8 +5,8 @@ Works for Portuguese and English
 
 
 ## Install
-
-You have to install Poppler 0.68, and Tesseract Alpha 5.x - And change the installation path in python code.
+Download all files 
+You have to install Poppler 0.68 ( http://blog.alivate.com.au/poppler-windows/ ), and Tesseract Alpha 5.x ( https://github.com/tesseract-ocr/tesseract/wiki/Data-Files ), change the installation path of poppler and tesseract in python code.
 
 ## How to use
 
